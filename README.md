@@ -27,8 +27,3 @@ The project is implemented in **Python** using **Google Colab notebooks** and po
 - **Description:** The dataset contains **30 numeric features** derived from digitized images of breast mass cell nuclei and a **target variable** (`M` = malignant, `B` = benign).
 
 ---
-
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Breast-Cancer-ML-Classification.git
