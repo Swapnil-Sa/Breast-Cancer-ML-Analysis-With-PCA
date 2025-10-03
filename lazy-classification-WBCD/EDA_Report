@@ -1,0 +1,13 @@
+### 📊 Sweetviz EDA Report  
+
+As part of the **Exploratory Data Analysis (EDA)**, I generated an **interactive report** using the **Sweetviz library**.  
+
+This report provides:  
+- Summary statistics of all numerical features.  
+- Class-wise comparisons between **Malignant (M)** and **Benign (B)** cases.  
+- Feature correlations and distribution plots.  
+- Target analysis showing how each feature impacts diagnosis.  
+
+👉 **[Click here to view the full Sweetviz Report](file:///C:/Users/swapn/Downloads/report.html)**  
+
+
