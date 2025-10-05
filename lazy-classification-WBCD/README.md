@@ -69,6 +69,6 @@ This project applies **Machine Learning techniques** to the **Wisconsin Breast C
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/breast-cancer-ml.git
+   git clone https://github.com/Swapnil-Sa/breast-cancer-ml.git
    cd lazy-classification-wbcd
 
