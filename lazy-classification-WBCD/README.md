@@ -1,4 +1,4 @@
-# Breast Cancer Classification with PCA 
+# Breast Cancer Classification with Lazy Classification
 
 This project applies **Machine Learning techniques** to the **Wisconsin Breast Cancer Dataset (WBCD)**, focusing on **exploratory data analysis (EDA)**, **model comparison using Lazy Predict**, and **classification threshold tuning** for performance optimization.  
 
